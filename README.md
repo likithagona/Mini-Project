@@ -16,6 +16,10 @@ By integrating modern web technologies and APIs, this project demonstrates how w
 -> User Interface: Simple and user-friendly interface built with HTML, CSS, and JavaScript.
 # Conclusion
 This project demonstrates the integration of modern web technologies to create a practical and user-friendly application that converts spoken language into text and translates it into various languages in real-time. By utilizing HTML, CSS, and JavaScript along with the Web Speech API and a translation API, this application provides a seamless experience for users needing quick and accurate translations.
+![Screenshot 2024-07-22 211304](https://github.com/user-attachments/assets/4c4fea0a-a3fd-4f80-b27b-da4cc3362201)
+![Screenshot 2024-07-22 211332](https://github.com/user-attachments/assets/c38caf55-916b-4e4e-b912-5008932b78ca)
+![Screenshot 2024-07-22 211319](https://github.com/user-attachments/assets/d4391a1d-855e-4260-9561-a7ad7b0816af)
+
 
 The Speech to Text and Translator Web App is an excellent tool for language learners, travelers, and anyone needing real-time translation services. Its simplicity and efficiency make it accessible to users of all technical levels, showcasing the potential of web technologies to break down language barriers and enhance global communication.
 
