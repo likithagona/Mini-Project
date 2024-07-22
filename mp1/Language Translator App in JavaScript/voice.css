@@ -1,0 +1,87 @@
+#hero {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('https://c1.wallpaperflare.com/preview/925/913/96/pink-guitar-glowing-style.jpg');
+    background-size: cover;
+}
+
+#hero h1 {
+    font-size: 55px;
+    font-weight: 500;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    color: rgb(255, 255, 255);
+}
+
+#hero h1 span {
+    color: white;
+}
+
+textarea {
+    width: 40%;
+    height: 250px;
+    color: black;
+    background-color: #fff;
+    font-size: 30px;
+    border: 0;
+    outline: 0;
+    padding: 20px;
+    border-radius: 1%;
+    resize: none;
+    margin-bottom: 30px;
+    box-shadow: -18 px - 18 px 15 px rgb(222, 206, 206), 5 px 5 px 15 px rgba(206, 181, 181, 0.2);
+}
+
+textarea::placeholder {
+    font-size: 16px;
+    color: rgb(66, 62, 62);
+}
+
+.row1 {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    border-radius: 35px;
+    padding: 10px 30px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+button i {
+    width: 16px;
+    margin-right: 10px;
+    align-items: center;
+}
+
+#hi {
+    flex: 1;
+    color: #fff;
+    background: #403d84;
+    height: 50px;
+    padding: 0 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 35px;
+    width: 100px;
+}
+
+#an {
+    font-size: 30px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    color: white;
+    margin-top: 60px;
+}
