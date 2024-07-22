@@ -22,6 +22,8 @@ The Speech to Text and Translator Web App is an excellent tool for language lear
 
 Future enhancements could include support for additional languages, improved speech recognition accuracy, and the incorporation of more robust translation services, making this application even more versatile and powerful.
 
+
+
 ![Screenshot 2024-07-22 211304](https://github.com/user-attachments/assets/4c4fea0a-a3fd-4f80-b27b-da4cc3362201)
 ![Screenshot 2024-07-22 211332](https://github.com/user-attachments/assets/c38caf55-916b-4e4e-b912-5008932b78ca)
 ![Screenshot 2024-07-22 211319](https://github.com/user-attachments/assets/d4391a1d-855e-4260-9561-a7ad7b0816af)
