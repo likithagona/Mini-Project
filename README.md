@@ -10,7 +10,9 @@ By integrating modern web technologies and APIs, this project demonstrates how w
 
 # Features
 -> Speech to Text: Converts spoken words into text using the Web Speech API.
+
 -> Text Translation: Translates the recognized text into a selected target language using a translation API.
+
 -> User Interface: Simple and user-friendly interface built with HTML, CSS, and JavaScript.
 # Conclusion
 This project demonstrates the integration of modern web technologies to create a practical and user-friendly application that converts spoken language into text and translates it into various languages in real-time. By utilizing HTML, CSS, and JavaScript along with the Web Speech API and a translation API, this application provides a seamless experience for users needing quick and accurate translations.
